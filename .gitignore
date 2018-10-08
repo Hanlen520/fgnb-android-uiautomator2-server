@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+npm-debug.log
+.idea/*
+Thumbs.db
+coverage/
+.project
+build/
+bin/
+gen/
+app/build
+.gradle/
+import-summary.txt
+local.properties
+*.iml
+*.un~
+*.sw*
